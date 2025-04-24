@@ -85,7 +85,7 @@ SOURCE ecommerce.sql;
 
 ## 👨‍💻 Contributors
 
-- [Your Name 1] - Database Design & SQL
+- Sharon Nyamongo - Database Design & SQL
 - [Your Name 2] - ERD & Documentation
 - [Your Name 3] - dbdiagram.io Modeling
 
